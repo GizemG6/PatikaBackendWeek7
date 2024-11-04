@@ -3,10 +3,10 @@
 List<Students> Students = new List<Students>
 {
     new Students { StudentId = 1, StudentName = "Ali", ClassId = 1},
-    new Students { StudentId = 2, StudentName = "Ayşe", ClassId = 1},
-    new Students { StudentId = 3, StudentName = "Mehmet", ClassId = 2},
-    new Students { StudentId = 4, StudentName = "Fatma", ClassId = 2},
-    new Students { StudentId = 5, StudentName = "Ahmet", ClassId = 3}
+    new Students { StudentId = 2, StudentName = "Ayşe", ClassId = 2},
+    new Students { StudentId = 3, StudentName = "Mehmet", ClassId = 1},
+    new Students { StudentId = 4, StudentName = "Fatma", ClassId = 3},
+    new Students { StudentId = 5, StudentName = "Ahmet", ClassId = 2}
 };
 
 
