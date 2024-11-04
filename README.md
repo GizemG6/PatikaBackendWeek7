@@ -1,6 +1,7 @@
 # PatikaBackendWeek7
 
 1-Linq
+
 Rastgele 10 adet sayıdan oluşan bir liste oluşturunuz. Bu liste üzerinden aşağıdaki linq sorgularını çalıştırarak konsol ekranına istenilenleri yazdırınız.
 
 Çift olan sayılar
@@ -18,6 +19,7 @@ Listedeki her bir sayının karesi (Bunun için yeni bir liste oluşturup yazdı
 2-Patikafy
 
 ![image](https://github.com/user-attachments/assets/76ca947a-299c-4d6b-a54a-4da413d85834)
+
 Yukarıda 11 sanatçımız için bir veri tablosu verilmiştir. Tablodaki her bir satır bir nesneye karşılık gelecek şekilde bu nesnelerden oluşan bir liste tanımlayınız. Ardından bu liste üzerinden aşığıdaki sorguları gerçekleştiriniz.
 
 Adı 'S' ile başlayan şarkıcılar
