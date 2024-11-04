@@ -84,3 +84,35 @@ Kitapları ve yazarları birleştiren bir LINQ sorgusu oluşturun. Bu sorgu, her
 4-Sonuçları Yazdırın:
 
 Oluşturduğunuz LINQ sorgusunun sonucunu ekrana yazdırın. Her kitabın başlığı ve yazarının adını içeren bilgileri göstermelisiniz.
+
+5-LINQ Group Join
+-------------------
+Bir okul veritabanı oluşturuyorsunuz ve aşağıdaki iki tablonun verilerini kullanarak group join işlemi gerçekleştirmeniz gerekiyor:
+
+1-Öğrenciler Tablosu (Students)
+
+StudentId: Öğrencinin benzersiz kimliği
+
+StudentName: Öğrencinin adı
+
+ClassId: Öğrencinin ait olduğu sınıfın kimliği
+
+Sınıflar Tablosu (Classes)
+
+ClassId: Sınıfın benzersiz kimliği
+
+ClassName: Sınıfın adı
+
+Aşağıdaki görevleri yerine getirin:
+
+1-Tabloyu Tanımlayın:
+
+Student ve Class isimli iki sınıf oluşturun. Her bir sınıf için uygun veri türlerini kullanarak C# sınıflarını tanımlayın.
+
+2-Veri Listelemesi:
+![image](https://github.com/user-attachments/assets/5375a775-eed1-42d0-95d5-182160ee4bda)
+
+3-LINQ Sorgusu:
+
+Öğrenciler ve sınıflar arasında group join işlemi yaparak, her sınıfın altında o sınıfa ait olan öğrencilerin listelendiği bir sonuç elde edin. Sonuçları sınıf adıyla birlikte, o sınıfa ait öğrencilerin isimleriyle birlikte ekrana yazdıran bir LINQ sorgusu yazın.
+
