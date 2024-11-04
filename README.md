@@ -16,6 +16,7 @@ Pozitif Sayılar
 Listedeki her bir sayının karesi (Bunun için yeni bir liste oluşturup yazdırabilirsiniz.)
 
 2-Patikafy
+
 ![image](https://github.com/user-attachments/assets/76ca947a-299c-4d6b-a54a-4da413d85834)
 Yukarıda 11 sanatçımız için bir veri tablosu verilmiştir. Tablodaki her bir satır bir nesneye karşılık gelecek şekilde bu nesnelerden oluşan bir liste tanımlayınız. Ardından bu liste üzerinden aşığıdaki sorguları gerçekleştiriniz.
 
