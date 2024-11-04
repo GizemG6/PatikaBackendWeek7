@@ -89,7 +89,7 @@ Oluşturduğunuz LINQ sorgusunun sonucunu ekrana yazdırın. Her kitabın başl�
 -------------------
 Bir okul veritabanı oluşturuyorsunuz ve aşağıdaki iki tablonun verilerini kullanarak group join işlemi gerçekleştirmeniz gerekiyor:
 
-1-Öğrenciler Tablosu (Students)
+---Öğrenciler Tablosu (Students)
 
 StudentId: Öğrencinin benzersiz kimliği
 
@@ -97,7 +97,7 @@ StudentName: Öğrencinin adı
 
 ClassId: Öğrencinin ait olduğu sınıfın kimliği
 
-Sınıflar Tablosu (Classes)
+---Sınıflar Tablosu (Classes)
 
 ClassId: Sınıfın benzersiz kimliği
 
