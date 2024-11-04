@@ -47,3 +47,39 @@ Ardından aşağıda istenilen işlemleri gerçekleştiriniz.
 Örnek Çıktı
 
 ![image](https://github.com/user-attachments/assets/774e4241-3842-4b40-b78c-9194ece59d0d)
+
+4- LINQ Join
+
+Bir kütüphane yönetim sistemi oluşturun. Bu sistemde iki adet tablo bulunmaktadır: Yazarlar ve Kitaplar. Aşağıda her iki tablonun yapısı verilmiştir:
+
+Yazarlar Tablosu (Authors)
+
+AuthorId (int) - Yazarın benzersiz kimliği
+
+Name (string) - Yazarın adı
+
+Kitaplar Tablosu (Books)
+
+BookId (int) - Kitabın benzersiz kimliği
+
+Title (string) - Kitabın başlığı
+
+AuthorId (int) - Kitabın yazarının kimliği (Yazarlar tablosundaki AuthorId ile ilişkilidir)
+
+Görev:
+
+1-Tabloları Tanımlayın:
+
+Author ve Book adında iki sınıf oluşturun ve yukarıdaki tablo yapılarını bu sınıflara uygun şekilde tanımlayın.
+
+2-Verileri Ekleyin:
+
+Her iki tabloya da örnek veriler ekleyin. En az 3 yazar ve 4 kitap ekleyin.
+
+3-LINQ Sorgusu Yazın:
+
+Kitapları ve yazarları birleştiren bir LINQ sorgusu oluşturun. Bu sorgu, her kitabın başlığını ve yazarının adını içermelidir.
+
+4-Sonuçları Yazdırın:
+
+Oluşturduğunuz LINQ sorgusunun sonucunu ekrana yazdırın. Her kitabın başlığı ve yazarının adını içeren bilgileri göstermelisiniz.
