@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patikafy", "Patikafy\Patikafy.csproj", "{78165E01-E53D-439E-853A-EEE69DA422AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patikaflix", "Patikaflix\Patikaflix.csproj", "{58CA8D3B-B270-490C-972A-9DBF3523465B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{78165E01-E53D-439E-853A-EEE69DA422AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78165E01-E53D-439E-853A-EEE69DA422AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78165E01-E53D-439E-853A-EEE69DA422AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CA8D3B-B270-490C-972A-9DBF3523465B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CA8D3B-B270-490C-972A-9DBF3523465B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CA8D3B-B270-490C-972A-9DBF3523465B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CA8D3B-B270-490C-972A-9DBF3523465B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
