@@ -29,7 +29,7 @@ class Program
         // odd numbers
         var oddNumbers = numbers.Where(n => n % 2 != 0);
         Console.WriteLine("Tek Sayılar:");
-        foreach (var num in oddNumbers) Console.Write(num + " ");
+        foreach (var num in oddNumbers) Console.Write(num + " "); 
         Console.WriteLine("\n");
 
         // negatives numbers
